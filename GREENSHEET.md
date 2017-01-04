@@ -1,35 +1,33 @@
-**SJSU X3D Spring 2017**
+**SJSU DataViz Spring 2017**
 ======================
 Department of Art and Art History
-Art 102, 3D Modeling and Printing, Spring 2017
+Art 175, Data Visualization Spring 2017, Room ART 241
 
-![gif](http://i.imgur.com/TuOehiT.gif)
+![gif](http://i.imgur.com/zdzDxsA.gif)
 
 Instructor: Andrew Blanton
 Office: Art 311
 Email: Andrew.blanton@sjsu.edu
 Office Hours: T and TR 4-5
 Class Day/Time: T TR 3:00-5:50
-Class Website: https://github.com/ablanton/SJSU_X3D_17
+Class Website: https://github.com/ablanton/SJSU_DATAVIZ_17
 
-[GreenSheet](https://github.com/ablanton/SJSU_X3D_17/blob/master/GREENSHEET.md)
-[Resources](https://github.com/ablanton/SJSU_X3D_17/blob/master/RESOURCES.md)
-[Class Website](https://github.com/ablanton/SJSU_X3D_17)
+[GreenSheet](https://github.com/ablanton/SJSU_DATAVIZ_17/blob/master/GREENSHEET.md)
+| [Resources](https://github.com/ablanton/SJSU_DATAVIZ_17/blob/master/RESOURCES.md)
+| [Class Website](https://github.com/ablanton/SJSU_DATAVIZ_17)
 
 Course Description
 ------------------
-Introduce experimental 3D methods with a focus on conceptual and creative processes using Maya software and 3D printing technology while addressing contemporary uses for artistic production.
+From Data Visualization, Interactive Data Manipulation, and Data Bending, this semester’s ART 175 will be a exploration in working with data as a medium for art creation. Working with data and cross modal representation, this studio art class will be creating 3D sculptures using Maya and building real time performance environments collaborating with the School of Music.
 
 Learning Outcomes
 -----------------
 
-######LO1: Produce work in line with contemporary art practices.
-######LO2: Present created work in a professional manner.
-######LO3: Discuss ideas and concepts related to contemporary 3D digital art.
-######LO4: Complete original projects exploring the visual and conceptual language of experimental 3D.
-######LO5: Demonstrate knowledge of the works of some of the most important 3D animation/print artists/ projects.
-######LO6: Think critically about 3D methods from a digital media art context including 3D rendering, 3D printing, and time-based 3D methods.
-######LO7: Demonstrate technical skills to use Maya and other open source software.
+######LO1: Work with realtime data and think creatively about visual representation
+######LO2: Produce professional level art
+######LO3: Gain experience in working with realtime visual environments
+######LO4: Research artist using data as a medium
+######LO5: Build your Portfolio
 
 Textbook
 --------
