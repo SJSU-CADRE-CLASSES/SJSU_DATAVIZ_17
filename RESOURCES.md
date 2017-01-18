@@ -35,3 +35,4 @@ Resources
 [The Conspiracy of Art](https://kirkbrideplan.files.wordpress.com/2012/10/jean-baudrillard-the-conspiracy-of-art.pdf)
 [Autonomedia](http://autonomedia.org/)
 [Center for Artistic Activism](https://artisticactivism.org/reading-list/s)
+[newmedia.rocks](http://newmedia.rocks/notes/realtime.html)
