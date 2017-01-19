@@ -8,7 +8,7 @@ Art 175, Data Visualization Spring 2017, Room ART 241
 Instructor: Andrew Blanton
 Office: Art 311
 Email: Andrew.blanton@sjsu.edu
-Office Hours: T and TR 4-5
+Office Hours: T and TR 11-12
 Class Day/Time: T TR 3:00-5:50
 Class Website: https://github.com/ablanton/SJSU_DATAVIZ_17
 
