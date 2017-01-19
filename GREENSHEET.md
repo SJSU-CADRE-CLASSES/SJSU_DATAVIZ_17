@@ -80,6 +80,7 @@ Screen Inspiration Videos
 20Concepts 01
 
 20Concepts 02
+
 *Week 3*
 20Concepts 03
 Handout First Project
@@ -87,6 +88,7 @@ In class: Ideation for Concepts of First Project
 
 20Concepts 04 05
 In class: Work on First Project
+
 *Week 4*
 First Project Due
 Presentation Day
@@ -94,18 +96,21 @@ Presentation Day
 20Concepts 06
 Screen Inspiration Videos
 In class: Work on Second Project
+
 *Week 5*
 20Concepts 07 08
 Screen Inspiration Videos
 In class: Work on Second Project
 
 20Concepts 09
+
 *Week 6*
 Second Project Due
 Presentation Day
 
 20Concepts 08
 Reading 2: Digital Performance Pg 1-8
+
 *Week 7*
 Due: Reading 2
 20Concepts 09
@@ -117,11 +122,13 @@ Students Work In Groups
 
 20Concepts 13
 In Class: Work on Third Project
+
 *Week 9*
 20Concepts 14 15
 
 Third Project Due
 Presentation Day
+
 *Week 10*
 Spring Break — no class!
 
@@ -132,25 +139,30 @@ Reading 3: To Be Announced
 
 Going over to Theater at 3:30
 20Concepts 18
+
 *Week 12*
 Tech Rehearsal in theater at 4:00p.m.
 
 Due: Reading 3
 TBD
+
 *Week 13*
 Post Performance Critique
 
 Reading 4: To Be Announced
 Workshop Day For Final Performance
+
 *Week 14*
 In class presentations of work in progress
 
 Workshop Day For Final Performance
+
 *Week 15*
 In class: working on final/problem solving
 Workshop Day For Final Performance
 
 Final Performance 7:00p.m. in the school of music
+
 *Week 16*
 Documentation Workshop
 
