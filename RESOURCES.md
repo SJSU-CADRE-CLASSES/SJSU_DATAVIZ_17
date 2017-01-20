@@ -20,25 +20,25 @@ Resources
 =========
 
 ### Aggregators
-#### [Critical Engineering](https://criticalengineering.org/)
+[Critical Engineering](https://criticalengineering.org/)
 | [Manifestos](http://www.disnovation.org/manifestos/) 
 
 ### Artist
-#### [The Glitch Moment(um)](http://networkcultures.org/_uploads/NN%234_RosaMenkman.pdf)
+[The Glitch Moment(um)](http://networkcultures.org/_uploads/NN%234_RosaMenkman.pdf)
 | [NONCOMPLIANT FUTURES](http://disnovation.org/fnc2/index.html#english)
 
 ## Artworks
-#### [Spectacle, Speculation, Spam](https://vimeo.com/194963450/7b76ebff6a)
+[Spectacle, Speculation, Spam](https://vimeo.com/194963450/7b76ebff6a)
 | [Theater of the Oppressed](http://www.tonyc.nyc/)
 
 ## Institutions
-#### [Brooklyn Museum](https://www.brooklynmuseum.org/exhibitions/agitprop)
+[Brooklyn Museum](https://www.brooklynmuseum.org/exhibitions/agitprop)
 | [Black Contemporary Art](http://blackcontemporaryart.tumblr.com/)
 | [Autonomedia](http://autonomedia.org/)
 | [Center for Artistic Activism](https://artisticactivism.org/reading-list/s)
 
 ## Writings 
-#### [Can Art Save Us From Bullshit](http://www.publicseminar.org/2016/12/can-art-save-us-from-bullshit/#.WGrk5bYrJE5)
+[Can Art Save Us From Bullshit](http://www.publicseminar.org/2016/12/can-art-save-us-from-bullshit/#.WGrk5bYrJE5)
 | [Emigre](http://emigre.com/Editorial.php?sect=1&id=14)
 | [Education of the Un-Artist](http://xenopraxis.net/readings/kaprow_education1.pdf)
 | [First World Art / Last World Art](http://www.naimark.net/writing/firstword.html)
