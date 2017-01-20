@@ -17,7 +17,7 @@ Class Website: https://github.com/ablanton/SJSU_DATAVIZ_17
 | [Class Website](https://github.com/ablanton/SJSU_DATAVIZ_17)
 
 Resources
----------
+=========
 
 ## Aggregators
 [Critical Engineering](https://criticalengineering.org/)
