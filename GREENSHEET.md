@@ -70,35 +70,38 @@ Schedule
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *Week 1* 01/26      | Course Introduction/Overview of Syllabus *** Introductions (Instructor-Students) *** Online Research/Tutorials/GitHub Registration                                     |
-| *Week 2* 01/31      | Due:Reading 1 *** Screen Inspiration Videos *** 20Concepts 01                                                        |
+| *Week 2* 01/31      | **Due:Assignment 1** *** Screen Inspiration Videos *** 20Concepts 01                                                        |
 | 02/02               | 20Concepts 02 |
-| *Week 3* 02/07      | 20Concepts 03 *** Handout First Project *** In class: Ideation for Concepts of First Project |
+| *Week 3* 02/07      | 20Concepts 03 **Due:Reading One** *** Handout First Project *** In class: Ideation for Concepts of First Project |
 | 02/09               | 20Concepts 04 05 *** In class: Work on First Project |
-| *Week 4* 02/14      | First Project Due --> Presentation Day |
+| *Week 4* 02/14      | **First Project Due --> Presentation Day** |
 | 02/16               | 20Concepts 06 *** Screen Inspiration Videos *** In class: Work on Second Project |
 | *Week 5* 02/21      | 20Concepts 07 08 *** Screen Inspiration Videos *** In class: Work on Second Project |
 | 02/23               | 20Concepts 09 |
-| *Week 6* 02/28      | Second Project Due --> Presentation Day |
+| *Week 6* 02/28      | **Second Project Due --> Presentation Day** |
 | 03/02               | 20Concepts 08 *** Reading 2: Digital Performance Pg 1-8 |
-| *Week 7* 03/07      | Due: Reading 2 *** 20Concepts 09 *** Screen Related works |
+| *Week 7* 03/07      | **Due: Reading 2** *** 20Concepts 09 *** Screen Related works |
 | 03/09               | 20Concepts 10 11 |
 | *Week 8* 03/14      | Students Work In Groups |
 | 03/16               | 20Concepts 13 *** In Class: Work on Third Project |
 | *Week 9* 03/21      | 20Concepts 14 15 |
-| 03/23               | Third Project Due --> Presentation Day |
+| 03/23               | **Third Project Due --> Presentation Day** |
 | *Week 10* 03/28     | Spring Break |
 | 03/30               | Spring Break |
 | *Week 11* 04/04     | Discussion of Prototype Status *** 20Concepts 16 17 *** Reading 3: To Be Announced |
-| 04/06               | Going over to Theater at 3:30 *** 20Concepts 18 |
-| *Week 12* 04/11     | Tech Rehearsal in theater at 4:00p.m. *** Due: Reading 3 |
-| 04/13               | Post Performance Critique |
-| *Week 13* 04/18     | Reading 4: To Be Announced *** Workshop Day For Final Performance |
-| 04/20               | In class presentations of work in progress |
-| *Week 14* 04/25     | In class presentations of work in progress |
+| 04/06               | **Due:Reading Three** *** 20Concepts 18 19 |
+| *Week 12* 04/11     | 20Concepts 20 |
+| 04/13               | **Prototype For Performance Due** |
+| *Week 13* 04/18     | Workshop Day For Performance |
+| 04/19               | Performance at 7:30 All students should plan on arriving for setup by 6:30 |
+| 04/20               | Post performance Critique |
+| *Week 14* 04/25     | Documentation Workshop |
 | 04/27               | Workshop Day For Final Performance |
-| *Week 15* 05/02     | In class: working on final/problem solving *** Workshop Day For Final Performance |
+| *Week 15* 05/02     | **Due:Reading Four** *** In class: working on final/problem solving *** Workshop Day For Final Performance |
 | 05/4                | Final Performance 7:00p.m. in the school of music |
 | *Week 16* 05/09     | Documentation Workshop |
-| 05/11               | Final Presentation + Performance Documentation |
+| 05/11               | **Final Presentation** + Performance Documentation |
+| 05/12               | Elijah Performance 1 |
+| 05/14               | Elijah Performance 2 |
 | *Final*  05/16      | The final project + paper is due no later then May 16th |
 |                  |  |
