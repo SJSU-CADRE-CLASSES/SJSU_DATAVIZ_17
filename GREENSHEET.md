@@ -72,7 +72,7 @@ Schedule
 | *Week 1* 01/26      | Course Introduction/Overview of Syllabus *** Introductions (Instructor-Students) *** Online Research/Tutorials/GitHub Registration                                     |
 | *Week 2* 01/31      | **Due:Assignment 1** *** Screen Inspiration Videos *** 20Concepts 01                                                        |
 | 02/02               | 20Concepts 02 |
-| *Week 3* 02/07      | **Due:Reading One** #####20Concepts 03; Handout First Project; In class: Ideation for Concepts of First Project |
+| *Week 3* 02/07      | **Due:Reading One** *** 20Concepts 03 *** Handout First Project *** In class: Ideation for Concepts of First Project |
 | 02/09               | 20Concepts 04 05 *** In class: Work on First Project |
 | *Week 4* 02/14      | **First Project Due --> Presentation Day** |
 | 02/16               | 20Concepts 06 *** Screen Inspiration Videos *** In class: Work on Second Project |
