@@ -19,20 +19,29 @@ Class Website: https://github.com/ablanton/SJSU_DATAVIZ_17
 Resources
 ---------
 
-[Spectacle, Speculation, Spam](https://vimeo.com/194963450/7b76ebff6a)
-[Brooklyn Museum](https://www.brooklynmuseum.org/exhibitions/agitprop)
+## Aggregators
+[Critical Engineering](https://criticalengineering.org/)
+[Manifestos](http://www.disnovation.org/manifestos/) 
+
+## Artist
 [The Glitch Moment(um)](http://networkcultures.org/_uploads/NN%234_RosaMenkman.pdf)
 [NONCOMPLIANT FUTURES](http://disnovation.org/fnc2/index.html#english)
-[First World Art / Last World Art](http://www.naimark.net/writing/firstword.html)
+
+## Artworks
+[Spectacle, Speculation, Spam](https://vimeo.com/194963450/7b76ebff6a)
+[Theater of the Oppressed](http://www.tonyc.nyc/)
+
+## Institutions
+[Brooklyn Museum](https://www.brooklynmuseum.org/exhibitions/agitprop)
 [Black Contemporary Art](http://blackcontemporaryart.tumblr.com/)
-[Critical Engineering](https://criticalengineering.org/)
-[Manifestos](http://www.disnovation.org/manifestos/)
+[Autonomedia](http://autonomedia.org/)
+[Center for Artistic Activism](https://artisticactivism.org/reading-list/s)
+
+## Writings 
 [Can Art Save Us From Bullshit](http://www.publicseminar.org/2016/12/can-art-save-us-from-bullshit/#.WGrk5bYrJE5)
 [Emigre](http://emigre.com/Editorial.php?sect=1&id=14)
 [Education of the Un-Artist](http://xenopraxis.net/readings/kaprow_education1.pdf)
-[Theater of the Oppressed](http://www.tonyc.nyc/)
+[First World Art / Last World Art](http://www.naimark.net/writing/firstword.html)
 [Artistic Activism and Agonistic Spaces](http://www.artandresearch.org.uk/v1n2/mouffe.html)
 [The Conspiracy of Art](https://kirkbrideplan.files.wordpress.com/2012/10/jean-baudrillard-the-conspiracy-of-art.pdf)
-[Autonomedia](http://autonomedia.org/)
-[Center for Artistic Activism](https://artisticactivism.org/reading-list/s)
 [newmedia.rocks](http://newmedia.rocks/notes/realtime.html)
