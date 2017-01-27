@@ -7,7 +7,7 @@ It's always a good idea to cite sources in Chicago format([1](http://www.chicago
 
 In your response feel free to discuss artist that you are interested in([2](http://matter.media.mit.edu/publications/article/grown-printed-and-biologically-augmented)), concepts that you are interested in([3](https://muse.jhu.edu/book/28148)), or any other ideas you feel relevant for discussion([4](http://www.forbes.com/sites/robertszczerba/2015/06/17/no-donor-required-5-body-parts-you-can-make-with-3-d-printers-2/#4d1189c14a3b))([5](https://www.theguardian.com/artanddesign/architecture-design-blog/2013/jan/25/3d-print-chocolate-face-valentines-day)). Try to think critically about ways that 3D printers can be used and what their broad impact on creative processes might be. You might also want to discuss how your own practice fits into or does not fit into the industrial pipeline of 3D content generation.
 
-![gif](http://i.giphy.com/26ufbzjayTN1ukFz2.gif)
+![gif](http://i.giphy.com/26ufeN9E29IWq43xS.gif)
 
 1. "Chicago Manual of Style," Accessed January 26, 2017, [http://www.chicagomanualofstyle.org/tools_citationguide.html](http://www.chicagomanualofstyle.org/tools_citationguide.html)
 2. Bader, C., Patrick, W., Kolb, D., Hays, S., Keating, S., Sharma, S., Dikovsky, D., Belocon, B., Weaver, J., Silver, P., and Oxman, N., "Grown, Printed, and Biologically Augmented," Journal of 3D Printing and Additive Manufacturing, Volume 3, Number 2, 2016, Pp. 79-89
