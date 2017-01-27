@@ -10,6 +10,9 @@ In your response feel free to discuss the artist that you are interested in([2](
 ![gif](http://i.giphy.com/26ufeN9E29IWq43xS.gif)
 
 1."Chicago Manual of Style," Accessed January 26, 2017, [http://www.chicagomanualofstyle.org/tools_citationguide.html](http://www.chicagomanualofstyle.org/tools_citationguide.html)
+
 2. Wikipedia contributors, "James Whitney (filmmaker)," Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=James_Whitney_(filmmaker)&oldid=733738720 (accessed January 27, 2017)
+
 3. Dixon, Steve. Digital performance: a history of new media in theater, dance, performance art, and installation. Cambridge, MA: MIT Press, 2007.
+
 4. "Center for Visual Music," Accessed January 26, 2017, [https://www.centerforvisualmusic.org/](https://www.centerforvisualmusic.org/)
