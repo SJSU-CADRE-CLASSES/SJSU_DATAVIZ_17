@@ -1,1 +1,12 @@
+Three Artists Assignment
 
+Disney World of Color
+I’ve always been in love with Disney’s World of Color performances because of how beautiful the shows come out. But what makes me curious is how the technical artists are able to use lights to project beautiful Disney scenes that looks completely flawless. One thing that I found the most impressive while researching was this segment called “Glow with the Show”. Principal technical producer Chuck Davis explains that they used Mickey Mouse hats that alter their colors to match the show using infra red lights and color specific locations during the performances. This allows the viewers to be directly a part of the show. The scale of this performance is not only amazing, it’s honestly impressive how they’re able to use technological skills to time the colors along with the show. I honestly wish I could’ve experience that when I went to watch World of Color. 
+http://vj.tv/on/glow-with-the-show
+
+Porter Robinson - Ghostdad
+Ghostdad, also known as Ryan Sciaino is the visual artist who projects the visual images you see during concerts held by Porter Robinson. I’ve enjoyed his work the most because of how colorful the projects that he uses are. Based on my research he even uses images that are colorful, fun, and full of life which complements the music that Porter Robinson creates. I only hope that one day I’ll be able to attend his concerts and see Ghostdad’s work live. I’ll have a better appreciation for the work he creates based on what I research about him. 
+http://inthemix.junkee.com/meet-the-artist-who-brings-porter-robinsons-stage-show-to-life/27180 
+
+Odesza Visual Artist - Luke Tanaka
+I’ve been a fan of Odesza for awhile now mostly because they’re music is my go to album for whenever I decide to zone out while I work on art pieces or complicated projects. But not once have I had the chance to see their performances live. Clearly I’m missing out on their amazing visuals much like with Porter Robinson. I watched one of their live performances on Youtube and was impressed with how the artists were able to sync the beats of the music to the lights that flickered behind the performers. It makes me wonder if those lights are synced to the specific buttons or are played in command to the artist that might be working around the scenes. Honestly before this assignment I had no prior care to what happens during those visuals, but now I want to keep in mind and research further on this visual art created for EDM performers. 
