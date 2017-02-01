@@ -1,5 +1,6 @@
 ##Jillian Mayer##
 I thought this was pretty interesting because of the tranquil ideas in her expression of art.  What seemed therapeutic and fun all at once was the Swing Space piece. 
+
 [Video](https://www.youtube.com/watch?v=GQz4k2_wseo)
 
 ##Joseph Kosinski##
