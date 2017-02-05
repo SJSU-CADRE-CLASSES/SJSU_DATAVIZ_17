@@ -17,6 +17,8 @@ To be an artist is not to recreate content off a same publisher, but create a co
 
 
 Cite:
+<br>
 1. Dixon S and Smith B, Digital Performance. A History of New Media in Theater, Dance, Performance Art, and Installation.London: MIT Press,4.
+<br>
 2. Mohn. "PokéGirls' Generation - Gee 2.0 [pokemon MMD]," Accessed February 4, 2017.https://www.youtube.com/watch?v=UD1AZIkLtw0.
 
