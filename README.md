@@ -18,7 +18,7 @@ Class Website: https://github.com/ablanton/SJSU_DATAVIZ_17
 
 ###### Project One
 ------------------
-###### [Andrew Blanton Project 1](https://github.com/ablanton/SJSU_DATAVIZ_17/blob/master/Assignment_One/AndrewBlantonAssignmentOne.md)
+###### [Andrew Blanton Project 1](https://github.com/ablanton/SJSU_DATAVIZ_17/blob/master/Project_One/Project_1.pdf)
 
 ###### Project Two
 ------------------
