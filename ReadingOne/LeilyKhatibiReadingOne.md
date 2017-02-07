@@ -11,7 +11,7 @@ Digital and interdisciplinary art practices capture my interest in many ways. I 
  
  ___
  
- ### Cites:
+**Cites:**
 
 1. Tehran Annual Digital Art Exhibition (TADAEX), founded in 2011. http://www.tadaex.com/2016/about/
 
