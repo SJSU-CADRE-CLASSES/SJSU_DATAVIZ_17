@@ -1,0 +1,8 @@
+
+Jorge Vizcaino
+ART 175
+
+New Media
+
+
+	Digital Art seems like a new thing, but since technology is continually growing artist tend to push technology in it’s more interesting ways.  When film was a new technology it was artist that innovated the medium by making one spectacle after another. For example it was Ub Iwerks along with Walt Disney created “Steamboat Willie” 1928, was the first animated cartoon that had synced sound. This was new media before CD-Roms, floppy disks, and USB drives. Our current culture almost looks like something out of Blade Runner 1982,  with giant LCD screened billboards, video phones, but still no flying cars though. Technology and media is in our pockets, and with that we can either watch the world or broadcast to it. Technology is just a tool, just as the Impressionist painters were someone the first painters to be able to travel out of their studio and into the field to paint nature, instead of sketching and returning to the studio, just because of an innovation in paint. The point is that it is not the technology, but what is done with it that makes it new media. How does it push things forward? Johnny Knoxville along with his friends took some camcorders and did some stunts and sold it as a show on MTV that ran for three seasons and had three movies. What they did was not something no else couldn’t have done, the difference is they did it, they used what they had available to them and went for it, and becoming household names in the process.  
