@@ -1,0 +1,6 @@
+Eduardo Reyes S
+
+Reading One
+
+	The article talks about the origins of digital performance as a form of entertainment, and as a new form of art. The new form, consisting of the use of computer technology as the key role in creating the art. Although the technology to create this new of art was very limited, artists worked with what was available to create unique installations that allowed the new art to be introduced to the public. New art was produced by using the “old technology” such as old computer games, CD-ROMS, video, and other combinations of technology. In the present time however, new technology and software allows almost anyone to create more than what previous artists could. This starts the debate as to what makes a new project ART, if it’s the technology used or the content in the project presented. 
+I think that even though digital performance art had its origins a few decades ago, I think that we have yet to reach the “prime age” of digital art. New technology allows new content to be created, and I believe that it’s the content on the canvas that makes the art. Some artist can create art from almost out of nothing, as well as there are artists that require the use of countless tools to create their art. In the end, what matters the most is the content presented, since that is usually the most difficult part when creating art.  
