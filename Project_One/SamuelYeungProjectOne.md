@@ -1,8 +1,8 @@
 The patch is a collection of everything that created interesting effects. There may be more, but these were the objects that caught my attention during the initial tests. I continued playing with the settings to see what else the objects could create and added Porter Robinson's Shelter to the mix. The song was pleasant enough to listen to while I worked and visuals complex enough to blend with the various effects. After identifying the effects I preferred, I grouped them according to their effects and figured out what numbers corresponded with the settings I liked. With a bundle of connections, I managed to get the patch to load my own parameters at the start. The video and audio were troublesome to sync, so they had to be toggled manually. I could not get read to load the video at the start either. The patch got quite large at the end and started causing trouble for my laptop. If it had not, I would probably have tried sending input through multiple effects before combining the end results. Music and audio would have been another target if there had been time. There is no clear goal for the patch aside from an attempt to create something that interests me. With that in mind, there is nothing that really connects the piece besides the colorful mayhem. 
 
-Format: ![Alt Text](https://drive.google.com/open?id=0B1kyADlDDFvMSGFlS3BBSEVPN1U)
-Format: ![Alt Text](https://drive.google.com/open?id=0B1kyADlDDFvMWm9TXzNOQS1uaHc)
-Format: ![Alt Text](https://drive.google.com/open?id=0B1kyADlDDFvMdFZWUmVDd2JTTjA)
+[First](https://drive.google.com/open?id=0B1kyADlDDFvMSGFlS3BBSEVPN1U)
+[Second](https://drive.google.com/open?id=0B1kyADlDDFvMWm9TXzNOQS1uaHc)
+[Third](https://drive.google.com/open?id=0B1kyADlDDFvMdFZWUmVDd2JTTjA)
 
 <pre><code>
 ----------begin_max5_patcher----------
