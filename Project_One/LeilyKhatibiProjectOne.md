@@ -2,11 +2,11 @@
 ### Project One
 ***
 
-![](http://giphy.com/gifs/crystalized-dancer-xTiN0ybaVlF4BBtjLa)
+![](http://i.giphy.com/xTiN0ybaVlF4BBtjLa.gif)
 
-![](https://media.giphy.com/media/xTiN0G6XGwfxhzYGXu/source.gif)
+![](http://i.giphy.com/xTiN0G6XGwfxhzYGXu.gif)
 
-![](https://media.giphy.com/media/3o84TWumZFZeRCGz8k/source.gif)
+![](http://i.giphy.com/3o84TWumZFZeRCGz8k.gif)
 
 ***
 
