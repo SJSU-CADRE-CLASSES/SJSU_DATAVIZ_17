@@ -6,11 +6,9 @@
 
 ***
 
-![](https://media.giphy.com/media/xTiN0G6XGwfxhzYGXu/source.gif)
+[Screen Recording 1](https://vid.me/o11O)
+[Screen Recording 2](https://vid.me/lIBP)
 
-***
-
-<iframe src="https://vid.me/e/lIBP?stats=1" width="600" height="338" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen scrolling="no"></iframe>
 
 ***
 
