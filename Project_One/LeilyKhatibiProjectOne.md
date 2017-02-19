@@ -6,11 +6,11 @@
 
 ***
 
-![](http://i.giphy.com/xTiN0G6XGwfxhzYGXu.gif)
+![](https://media.giphy.com/media/xTiN0G6XGwfxhzYGXu/source.gif)
 
 ***
 
-![](http://i.giphy.com/3o84TWumZFZeRCGz8k.gif)
+![](https://media.giphy.com/media/3o84TWumZFZeRCGz8k/source.gif)
 
 ***
 
