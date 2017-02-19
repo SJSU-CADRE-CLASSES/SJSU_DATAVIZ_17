@@ -10,7 +10,7 @@
 
 ***
 
-![](https://media.giphy.com/media/3o84TWumZFZeRCGz8k/source.gif)
+<iframe src="https://vid.me/e/lIBP?stats=1" width="600" height="338" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen scrolling="no"></iframe>
 
 ***
 
