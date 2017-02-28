@@ -78,8 +78,8 @@ Schedule
 | 02/16               | 20Concepts 06 *** Screen Inspiration Videos *** In class: Work on Second Project |
 | *Week 5* 02/21      | 20Concepts 07 08 *** Screen Inspiration Videos *** In class: Work on Second Project |
 | 02/23               | 20Concepts 09 |
-| *Week 6* 02/28      | **Second Project Due --> Presentation Day** |
-| 03/02               | 20Concepts 08 *** Reading 2: Digital Performance Pg 1-8 |
+| *Week 6* 02/28      | 20Concepts 10 11 |
+| 03/02               | Reading 2: Digital Performance Pg 1-8 |
 | *Week 7* 03/07      | **Due: Reading 2** *** 20Concepts 09 *** Screen Related works |
 | 03/09               | 20Concepts 10 11 |
 | *Week 8* 03/14      | Students Work In Groups |
