@@ -79,7 +79,7 @@ Schedule
 | *Week 5* 02/21      | 20Concepts 07 08 *** Screen Inspiration Videos *** In class: Work on Second Project |
 | 02/23               | 20Concepts 09 |
 | *Week 6* 02/28      | 20Concepts 10 11 |
-| 03/02               | 20Concepts 12 13 *** Assigned:Reading 2 |
+| 03/02               | 20Concepts 12 13 *** Assigned:[Reading 2](http://www.andrewblanton.com/malina_schaeffer.pdf) |
 | *Week 7* 03/07      | **Due: Reading 2** *** 20Concepts 09 *** Screen Related works |
 | 03/09               | 20Concepts 13 14 |
 | *Week 8* 03/14      | Students Work In Groups |
