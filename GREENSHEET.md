@@ -79,12 +79,12 @@ Schedule
 | *Week 5* 02/21      | 20Concepts 07 08 *** Screen Inspiration Videos *** In class: Work on Second Project |
 | 02/23               | 20Concepts 09 |
 | *Week 6* 02/28      | 20Concepts 10 11 |
-| 03/02               | Reading 2: Digital Performance Pg 1-8 |
+| 03/02               | 20Concepts 12 13 *** Assigned:Reading 2 |
 | *Week 7* 03/07      | **Due: Reading 2** *** 20Concepts 09 *** Screen Related works |
-| 03/09               | 20Concepts 10 11 |
+| 03/09               | 20Concepts 13 14 |
 | *Week 8* 03/14      | Students Work In Groups |
-| 03/16               | 20Concepts 13 *** In Class: Work on Third Project |
-| *Week 9* 03/21      | 20Concepts 14 15 |
+| 03/16               | 20Concepts 15 *** In Class: Work on Third Project |
+| *Week 9* 03/21      | 20Concepts 16 17 |
 | 03/23               | **Third Project Due --> Presentation Day** |
 | *Week 10* 03/28     | Spring Break |
 | 03/30               | Spring Break |
