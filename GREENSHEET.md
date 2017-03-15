@@ -81,16 +81,16 @@ Schedule
 | *Week 6* 02/28      | 20Concepts 10 11 |
 | 03/02               | 20Concepts 12 13 *** Assigned:[Reading 2](http://www.andrewblanton.com/malina_schaeffer.pdf) |
 | *Week 7* 03/07      | **Due: Reading 2** *** 20Concepts 09 *** Screen Related works |
-| 03/09               | 20Concepts 13 14 |
-| *Week 8* 03/14      | Students Work In Groups |
-| 03/16               | 20Concepts 15 *** In Class: Work on Third Project |
-| *Week 9* 03/21      | 20Concepts 16 17 |
-| 03/23               | **Third Project Due --> Presentation Day** |
+| 03/09               | 20Concepts 13 14 15|
+| *Week 8* 03/14      | **Due: Project 2** 20Concepts 16 17 |
+| 03/16               | 20Concepts 18 19 *** In Class: Work on Third Project |
+| *Week 9* 03/21      | 20Concepts 20 |
+| 03/23               | GL Extended - In Class: Work on Third Project |
 | *Week 10* 03/28     | Spring Break |
 | 03/30               | Spring Break |
-| *Week 11* 04/04     | Discussion of Prototype Status *** 20Concepts 16 17 *** Reading 3: To Be Announced |
-| 04/06               | **Due:Reading Three** *** 20Concepts 18 19 |
-| *Week 12* 04/11     | 20Concepts 20 |
+| *Week 11* 04/04     | **Third Project Due --> Presentation Day** *** Reading 3: To Be Announced |
+| 04/06               | **Due:Reading Three** Discussion of Prototype *** |
+| *Week 12* 04/11     | Show work in class |
 | 04/13               | **Prototype For Performance Due** |
 | *Week 13* 04/18     | Workshop Day For Performance |
 | 04/19               | Performance at 7:30 All students should plan on arriving for setup by 6:30 |
