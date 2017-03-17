@@ -45,3 +45,12 @@ Resources
 | [Artistic Activism and Agonistic Spaces](http://www.artandresearch.org.uk/v1n2/mouffe.html)
 | [The Conspiracy of Art](https://kirkbrideplan.files.wordpress.com/2012/10/jean-baudrillard-the-conspiracy-of-art.pdf)
 | [newmedia.rocks](http://newmedia.rocks/notes/realtime.html)
+
+## 3/17
+--------
+* https://www.youtube.com/watch?v=OxPyN6IK1tM
+* https://www.youtube.com/watch?v=nS7QvOX8LVk
+* https://www.youtube.com/watch?v=tYytVzbPky8
+* https://vimeo.com/207528129
+* https://www.youtube.com/watch?v=iFsuy1I5l-U
+* https://www.youtube.com/watch?v=JNU7bxKwknk
