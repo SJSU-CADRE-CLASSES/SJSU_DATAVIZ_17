@@ -243,7 +243,6 @@
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 587.5, 102.0, 50.0, 22.0 ],
-					"presentation_rect" : [ 654.5, 155.0, 0.0, 0.0 ],
 					"style" : ""
 				}
 
@@ -256,7 +255,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
 					"patching_rect" : [ 531.75, 85.0, 29.5, 22.0 ],
-					"presentation_rect" : [ 587.0, 159.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "/ 1."
 				}
@@ -272,7 +270,6 @@
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 587.5, 54.0, 50.0, 22.0 ],
-					"presentation_rect" : [ 648.0, 126.0, 0.0, 0.0 ],
 					"style" : ""
 				}
 
@@ -285,7 +282,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
 					"patching_rect" : [ 437.0, 74.0, 29.5, 22.0 ],
-					"presentation_rect" : [ 580.5, 130.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "/ 1."
 				}
