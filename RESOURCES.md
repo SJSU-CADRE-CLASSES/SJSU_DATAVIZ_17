@@ -54,3 +54,13 @@ Resources
 * https://vimeo.com/207528129
 * https://www.youtube.com/watch?v=iFsuy1I5l-U
 * https://www.youtube.com/watch?v=JNU7bxKwknk
+
+## 4/4
+------
+* https://nyphil.org/~/media/pdfs/watch-listen/commercial-recordings/1011/release5.pdf
+* http://www.canalplus.fr/musique/musique/pid5065-live-du-grand-journal.html?vid=1416199
+* https://www.youtube.com/watch?v=Exm8bKidg4Y
+* https://www.youtube.com/watch?v=b1irbhY_dgY&list=RDZHNArEfBKdc&index=6
+* https://www.youtube.com/watch?v=mua8Pr6uRso
+* https://www.youtube.com/watch?v=mHQmnumnNgo
+* https://www.youtube.com/watch?v=ZrKgyY5aDvA
