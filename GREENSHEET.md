@@ -90,12 +90,12 @@ Schedule
 | 03/30               | Spring Break |
 | *Week 11* 04/04     | Reading 3: To Be Announced |
 | 04/06               | Discussion of Prototype *** |
-| *Week 12* 04/11     | **Due:Reading Three** Show work in class |
+| *Week 12* 04/11     | **Due:Reading Three** *** Organize Performance Sections *** Show work in class |
 | 04/13               | **First Prototype For Performance Due** |
-| *Week 13* 04/18     | Workshop Day For Performance |
-| 04/19               | TBD |
-| 04/20               | TBD |
-| *Week 14* 04/25     | TBD |
+| *Week 13* 04/18     | Building Performance System *** Work in Class |
+| 04/19               | Building Performance System *** Work in Class |
+| 04/20               | Building Performance System *** Work in Class |
+| *Week 14* 04/25     | Workshop Day For Final Performance |
 | 04/27               | Workshop Day For Final Performance |
 | *Week 15* 05/02     | **Due:Reading Four** *** In class: working on final/problem solving *** Workshop Day For Final Performance |
 | 05/4                | Final Performance 7:00p.m. in the school of music |
