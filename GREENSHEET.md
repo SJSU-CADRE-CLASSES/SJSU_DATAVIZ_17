@@ -88,14 +88,14 @@ Schedule
 | 03/23               | GL Extended - In Class: Work on Third Project |
 | *Week 10* 03/28     | Spring Break |
 | 03/30               | Spring Break |
-| *Week 11* 04/04     | **Third Project Due --> Presentation Day** *** Reading 3: To Be Announced |
-| 04/06               | **Due:Reading Three** Discussion of Prototype *** |
-| *Week 12* 04/11     | Show work in class |
-| 04/13               | **Prototype For Performance Due** |
+| *Week 11* 04/04     | Reading 3: To Be Announced |
+| 04/06               | Discussion of Prototype *** |
+| *Week 12* 04/11     | **Due:Reading Three** Show work in class |
+| 04/13               | **First Prototype For Performance Due** |
 | *Week 13* 04/18     | Workshop Day For Performance |
-| 04/19               | Performance at 7:30 All students should plan on arriving for setup by 6:30 |
-| 04/20               | Post performance Critique |
-| *Week 14* 04/25     | Documentation Workshop |
+| 04/19               | TBD |
+| 04/20               | TBD |
+| *Week 14* 04/25     | TBD |
 | 04/27               | Workshop Day For Final Performance |
 | *Week 15* 05/02     | **Due:Reading Four** *** In class: working on final/problem solving *** Workshop Day For Final Performance |
 | 05/4                | Final Performance 7:00p.m. in the school of music |
