@@ -38,6 +38,19 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-27",
+					"linecount" : 2,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 880.5, 311.0, 150.0, 34.0 ],
+					"style" : "",
+					"text" : "it goes a little too fast at times"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-269",
 					"linecount" : 7,
 					"maxclass" : "comment",
@@ -1290,7 +1303,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1031.0, 265.0, 50.0, 36.0 ],
 					"style" : "",
-					"text" : "0.018066"
+					"text" : "0.05188"
 				}
 
 			}
@@ -1353,7 +1366,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_matrix", "" ],
-					"patching_rect" : [ 681.5, 577.0, 435.0, 22.0 ],
+					"patching_rect" : [ 593.5, 578.0, 435.0, 22.0 ],
 					"style" : "",
 					"text" : "jit.gl.gridshape fanf @lighting_enable 1 @smooth_shading 1 @scale 0.1 0.1 0.1"
 				}
@@ -2331,7 +2344,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-23",
-					"int" : 2,
+					"int" : 1,
 					"maxclass" : "gswitch2",
 					"numinlets" : 2,
 					"numoutlets" : 8,
@@ -2352,7 +2365,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 373.75, 1129.5, 50.0, 22.0 ],
 					"style" : "",
-					"text" : "2"
+					"text" : "1"
 				}
 
 			}
