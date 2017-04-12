@@ -64,3 +64,7 @@ Resources
 * https://www.youtube.com/watch?v=mua8Pr6uRso
 * https://www.youtube.com/watch?v=mHQmnumnNgo
 * https://www.youtube.com/watch?v=ZrKgyY5aDvA
+
+## 4/11
+-------
+https://www.blackmagicdesign.com/products
