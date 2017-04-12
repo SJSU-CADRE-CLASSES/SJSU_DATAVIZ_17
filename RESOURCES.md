@@ -68,3 +68,4 @@ Resources
 ## 4/11
 -------
 https://www.blackmagicdesign.com/products
+https://www.youtube.com/watch?v=zt9iy5THnbk
