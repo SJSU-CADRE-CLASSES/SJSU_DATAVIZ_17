@@ -69,3 +69,7 @@ Resources
 -------
 https://www.blackmagicdesign.com/products
 https://www.youtube.com/watch?v=zt9iy5THnbk
+
+## 4/20
+https://www.youtube.com/watch?v=0zMI-qbmIPk
+http://www.midiworld.com/files/166/
