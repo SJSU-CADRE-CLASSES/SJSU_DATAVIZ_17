@@ -97,10 +97,10 @@ Schedule
 | 04/20               | Building Performance System *** Work in Class |
 | *Week 14* 04/25     | Workshop Day For Final Performance |
 | 04/27               | Workshop Day For Final Performance |
-| *Week 15* 05/02     | **Due:Reading Four** *** In class: working on final/problem solving *** Workshop Day For Final Performance |
-| 05/4                | Final Performance 7:00p.m. in the school of music |
-| *Week 16* 05/09     | Documentation Workshop |
-| 05/11               | **Presentation with School of Music** + Performance Documentation |
+| *Week 15* 05/02     | Final Performance 7:00p.m. in the school of music|
+| 05/4                | Building Performance System *** Work in Class |
+| *Week 16* 05/09     | Building Performance System *** Work in Class |
+| 05/11               | Building Performance System *** Work in Class |
 | 05/12               | Elijah Performance 1 |
 | 05/14               | Elijah Performance 2 |
 | *Final*  05/16      | The final project + paper is due no later then May 16th |
