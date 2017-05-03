@@ -99,7 +99,9 @@ Schedule
 | 04/27               | Workshop Day For Final Performance |
 | *Week 15* 05/02     | Final Performance 7:00p.m. in the school of music|
 | 05/4                | Building Performance System *** Work in Class |
-| *Week 16* 05/09     | Building Performance System *** Work in Class |
+| 05/7                | Site Projector @ Hammer 10:00 am to 5:00 pm |
+| *Week 16* 05/08     | Rehearsal @ Hammer meet at Hammer @ 3:00 pm |
+| 05/09               | Rehearsal @ Hammer meet at Hammer @ 7:00 pm |
 | 05/11               | Building Performance System *** Work in Class |
 | 05/12               | Elijah Performance 1 |
 | 05/14               | Elijah Performance 2 |
