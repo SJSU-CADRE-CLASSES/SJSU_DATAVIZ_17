@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 115.0, 85.0, 1298.0, 657.0 ],
+		"rect" : [ 115.0, 85.0, 1298.0, 656.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -126,9 +126,9 @@
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "jit_gl_texture", "", "" ],
-					"patching_rect" : [ 695.0, 302.0, 272.0, 23.0 ],
+					"patching_rect" : [ 695.0, 302.0, 208.0, 23.0 ],
 					"style" : "",
-					"text" : "jit.gl.pass subRenderContext @fxname dof"
+					"text" : "jit.gl.pass subBeez @fxname dof"
 				}
 
 			}
@@ -142,9 +142,9 @@
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "jit_gl_texture", "", "" ],
-					"patching_rect" : [ 695.0, 412.0, 286.0, 23.0 ],
+					"patching_rect" : [ 695.0, 412.0, 226.0, 23.0 ],
 					"style" : "",
-					"text" : "jit.gl.pass subRenderContext @fxname bloom"
+					"text" : "jit.gl.pass subBeez @fxname bloom"
 				}
 
 			}
@@ -303,6 +303,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-106",
@@ -333,7 +334,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 698.0, 490.0, 178.0, 22.0 ],
+									"patching_rect" : [ 543.0, 459.0, 178.0, 22.0 ],
 									"style" : "",
 									"text" : "0.395832 0.801757 1. 1.",
 									"textcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ]
@@ -348,7 +349,7 @@
 									"numoutlets" : 2,
 									"outlettype" : [ "", "float" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 514.0, 357.333313, 128.0, 32.0 ],
+									"patching_rect" : [ 539.0, 389.333313, 128.0, 32.0 ],
 									"saturation" : 1.0
 								}
 
@@ -364,7 +365,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 436.0, 522.5, 90.0, 23.0 ],
+									"patching_rect" : [ 543.0, 489.5, 90.0, 23.0 ],
 									"style" : "",
 									"text_width" : 61.0
 								}
@@ -378,9 +379,9 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "jit_matrix", "" ],
-									"patching_rect" : [ 943.0, 430.0, 203.0, 50.0 ],
+									"patching_rect" : [ 943.0, 430.0, 196.0, 50.0 ],
 									"style" : "",
-									"text" : "jit.gl.gridshape subRenderContext @poly_mode 1 2 @position -3. -2. 0. @shape cylinder"
+									"text" : "jit.gl.gridshape subBeez @poly_mode 1 2 @position -3. -2. 0. @shape cylinder"
 								}
 
 							}
@@ -392,23 +393,22 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "jit_matrix", "" ],
-									"patching_rect" : [ 873.0, 331.0, 203.0, 36.0 ],
+									"patching_rect" : [ 873.0, 331.0, 235.0, 36.0 ],
 									"style" : "",
-									"text" : "jit.gl.gridshape subRenderContext @poly_mode 1 2 @position 0. -2. 0."
+									"text" : "jit.gl.gridshape subBeez @poly_mode 1 2 @position 0. -2. 0."
 								}
 
 							}
 , 							{
 								"box" : 								{
 									"id" : "obj-42",
-									"linecount" : 3,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "jit_gl_texture", "" ],
-									"patching_rect" : [ 859.0, 551.0, 112.0, 50.0 ],
+									"patching_rect" : [ 859.0, 551.0, 222.0, 22.0 ],
 									"style" : "",
-									"text" : "jit.gl.camera subRenderContext @position 0. 0. 4."
+									"text" : "jit.gl.camera subBeez @position 0. 0. 4."
 								}
 
 							}
@@ -565,9 +565,9 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "jit_matrix", "" ],
-									"patching_rect" : [ 185.0, 459.0, 189.0, 22.0 ],
+									"patching_rect" : [ 185.0, 459.0, 123.0, 22.0 ],
 									"style" : "",
-									"text" : "jit.gl.skybox subRenderContext"
+									"text" : "jit.gl.skybox subBeez"
 								}
 
 							}
@@ -578,9 +578,9 @@
 									"numinlets" : 8,
 									"numoutlets" : 2,
 									"outlettype" : [ "", "" ],
-									"patching_rect" : [ 206.0, 231.0, 179.0, 22.0 ],
+									"patching_rect" : [ 206.0, 231.0, 128.0, 22.0 ],
 									"style" : "",
-									"text" : "jit.gl.material subRenderContext"
+									"text" : "jit.gl.material subBeez"
 								}
 
 							}
@@ -616,9 +616,9 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 458.0, 313.0, 157.0, 22.0 ],
+									"patching_rect" : [ 458.0, 313.0, 87.0, 22.0 ],
 									"style" : "",
-									"text" : "jit.gl.light renderContext"
+									"text" : "jit.gl.light beez"
 								}
 
 							}
@@ -629,9 +629,9 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "jit_gl_texture", "" ],
-									"patching_rect" : [ 199.0, 98.0, 163.0, 22.0 ],
+									"patching_rect" : [ 199.0, 98.0, 105.0, 22.0 ],
 									"style" : "",
-									"text" : "jit.gl.camera renderContext"
+									"text" : "jit.gl.camera beez"
 								}
 
 							}
@@ -651,14 +651,13 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-18",
-									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "jit_matrix", "" ],
-									"patching_rect" : [ 206.0, 313.0, 203.0, 36.0 ],
+									"patching_rect" : [ 206.0, 313.0, 333.0, 22.0 ],
 									"style" : "",
-									"text" : "jit.gl.gridshape subRenderContext @poly_mode 1 2 @position 3. -2. 0."
+									"text" : "jit.gl.gridshape subBeez @poly_mode 1 2 @position 3. -2. 0."
 								}
 
 							}
@@ -865,7 +864,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 440.0, 551.0, 150.0, 22.0 ],
+									"patching_rect" : [ 539.0, 519.0, 150.0, 22.0 ],
 									"style" : ""
 								}
 
@@ -1345,9 +1344,9 @@
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "jit_gl_texture", "", "" ],
-					"patching_rect" : [ 382.0, 58.0, 298.0, 22.0 ],
+					"patching_rect" : [ 382.0, 58.0, 187.0, 22.0 ],
 					"style" : "",
-					"text" : "jit.gl.node renderContext @name subRenderContext"
+					"text" : "jit.gl.node beez @name subBeez"
 				}
 
 			}
@@ -1499,14 +1498,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-9",
-					"linecount" : 2,
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "" ],
-					"patching_rect" : [ 25.0, 385.5, 156.0, 36.0 ],
+					"patching_rect" : [ 25.0, 385.5, 182.0, 22.0 ],
 					"style" : "",
-					"text" : "jit.window renderContext @size 1000 500"
+					"text" : "jit.window beez @size 1000 500"
 				}
 
 			}
@@ -1532,9 +1530,9 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "" ],
-					"patching_rect" : [ 25.0, 144.0, 291.0, 22.0 ],
+					"patching_rect" : [ 25.0, 144.0, 235.0, 22.0 ],
 					"style" : "",
-					"text" : "jit.gl.render renderContext @accelerated 1 @fsaa 1"
+					"text" : "jit.gl.render beez @accelerated 1 @fsaa 1"
 				}
 
 			}
@@ -1821,8 +1819,8 @@
 ,
 				"toggle" : 				{
 					"color" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"bgcolor" : [ 0.636487, 0.648652, 0.683149, 1.0 ],
-					"elementcolor" : [ 0.786675, 0.801885, 0.845022, 1.0 ]
+					"elementcolor" : [ 0.786675, 0.801885, 0.845022, 1.0 ],
+					"bgcolor" : [ 0.636487, 0.648652, 0.683149, 1.0 ]
 				}
 ,
 				"newobj" : 				{
@@ -1843,8 +1841,8 @@
 ,
 				"toggle" : 				{
 					"color" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"bgcolor" : [ 0.636487, 0.648652, 0.683149, 1.0 ],
-					"elementcolor" : [ 0.786675, 0.801885, 0.845022, 1.0 ]
+					"elementcolor" : [ 0.786675, 0.801885, 0.845022, 1.0 ],
+					"bgcolor" : [ 0.636487, 0.648652, 0.683149, 1.0 ]
 				}
 ,
 				"newobj" : 				{
@@ -1858,46 +1856,6 @@
 			}
 , 			{
 				"name" : "master_style",
-				"ezadc~" : 				{
-					"color" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"bgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-					"elementcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ]
-				}
-,
-				"slider" : 				{
-					"color" : [ 0.461105, 0.492646, 0.591878, 1.0 ],
-					"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
-					"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
-				}
-,
-				"button" : 				{
-					"color" : [ 1.0, 0.95051, 0.0, 1.0 ],
-					"bgcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
-					"elementcolor" : [ 0.786675, 0.801885, 0.845022, 1.0 ]
-				}
-,
-				"kslider" : 				{
-					"color" : [ 1.0, 1.0, 1.0, 1.0 ],
-					"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
-				}
-,
-				"ezdac~" : 				{
-					"color" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"bgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-					"elementcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ]
-				}
-,
-				"toggle" : 				{
-					"color" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"bgcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
-					"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
-				}
-,
-				"function" : 				{
-					"color" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"bgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
-				}
-,
 				"gain~" : 				{
 					"color" : [ 1.0, 0.861448, 0.16921, 1.0 ],
 					"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
@@ -1908,29 +1866,44 @@
 					"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 ,
-				"attrui" : 				{
-					"bgcolor" : [ 0.786675, 0.801885, 0.845022, 1.0 ],
-					"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
+				"slider" : 				{
+					"color" : [ 0.461105, 0.492646, 0.591878, 1.0 ],
+					"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
+					"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 ,
-				"newobj" : 				{
-					"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
-					"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"accentcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
+				"ezadc~" : 				{
+					"color" : [ 0.0, 0.0, 0.0, 1.0 ],
+					"elementcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
+					"bgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
 				}
 ,
-				"message" : 				{
-					"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"bgfillcolor" : 					{
-						"type" : "gradient",
-						"color1" : [ 0.786675, 0.801885, 0.845022, 1.0 ],
-						"color2" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-						"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-						"angle" : 270.0,
-						"proportion" : 0.39,
-						"autogradient" : 0
-					}
-
+				"button" : 				{
+					"color" : [ 1.0, 0.95051, 0.0, 1.0 ],
+					"elementcolor" : [ 0.786675, 0.801885, 0.845022, 1.0 ],
+					"bgcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ]
+				}
+,
+				"kslider" : 				{
+					"color" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
+				}
+,
+				"toggle" : 				{
+					"color" : [ 0.0, 0.0, 0.0, 1.0 ],
+					"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
+					"bgcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ]
+				}
+,
+				"ezdac~" : 				{
+					"color" : [ 0.0, 0.0, 0.0, 1.0 ],
+					"elementcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
+					"bgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
+				}
+,
+				"function" : 				{
+					"color" : [ 0.0, 0.0, 0.0, 1.0 ],
+					"bgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
 				}
 ,
 				"umenu" : 				{
@@ -1946,14 +1919,39 @@
 
 				}
 ,
+				"message" : 				{
+					"bgfillcolor" : 					{
+						"type" : "gradient",
+						"color1" : [ 0.786675, 0.801885, 0.845022, 1.0 ],
+						"color2" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
+						"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
+						"angle" : 270.0,
+						"proportion" : 0.39,
+						"autogradient" : 0
+					}
+,
+					"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
+				}
+,
+				"attrui" : 				{
+					"bgcolor" : [ 0.786675, 0.801885, 0.845022, 1.0 ],
+					"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
+				}
+,
+				"newobj" : 				{
+					"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
+					"accentcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
+				}
+,
 				"parentstyle" : "",
 				"multi" : 1
 			}
 , 			{
 				"name" : "newobjYellow-1",
 				"default" : 				{
-					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
-					"fontsize" : [ 12.059008 ]
+					"fontsize" : [ 12.059008 ],
+					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
