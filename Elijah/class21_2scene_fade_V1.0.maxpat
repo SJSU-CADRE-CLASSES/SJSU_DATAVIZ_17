@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 2.0, 114.0, 1409.0, 651.0 ],
+		"rect" : [ -51.0, 114.0, 1409.0, 651.0 ],
 		"bgcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 		"editing_bgcolor" : [ 0.831373, 0.831373, 0.831373, 1.0 ],
 		"bglocked" : 0,
@@ -1984,7 +1984,6 @@
 						"styles" : [ 							{
 								"name" : "basic 1",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
@@ -1993,7 +1992,8 @@
 										"angle" : 270.0,
 										"proportion" : 0.39
 									}
-
+,
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -2002,9 +2002,9 @@
 , 							{
 								"name" : "default_style",
 								"newobj" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
 									"accentcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"toggle" : 								{
@@ -2024,9 +2024,9 @@
 , 							{
 								"name" : "default_style-1",
 								"newobj" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
 									"accentcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"toggle" : 								{
@@ -2045,29 +2045,10 @@
 							}
 , 							{
 								"name" : "master_style",
-								"attrui" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 0.786675, 0.801885, 0.845022, 1.0 ]
-								}
-,
 								"newobj" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
 									"accentcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
-								}
-,
-								"message" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgfillcolor" : 									{
-										"type" : "gradient",
-										"color1" : [ 0.786675, 0.801885, 0.845022, 1.0 ],
-										"color2" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-										"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-										"angle" : 270.0,
-										"proportion" : 0.39,
-										"autogradient" : 0
-									}
-
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"slider" : 								{
@@ -2076,15 +2057,21 @@
 									"color" : [ 0.461105, 0.492646, 0.591878, 1.0 ]
 								}
 ,
+								"ezadc~" : 								{
+									"elementcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
+									"bgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
+									"color" : [ 0.0, 0.0, 0.0, 1.0 ]
+								}
+,
 								"button" : 								{
 									"elementcolor" : [ 0.786675, 0.801885, 0.845022, 1.0 ],
 									"bgcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
 									"color" : [ 1.0, 0.95051, 0.0, 1.0 ]
 								}
 ,
-								"gain~" : 								{
+								"kslider" : 								{
 									"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-									"color" : [ 1.0, 0.861448, 0.16921, 1.0 ]
+									"color" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"toggle" : 								{
@@ -2093,31 +2080,15 @@
 									"color" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
-								"ezadc~" : 								{
-									"elementcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
-									"bgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-									"color" : [ 0.0, 0.0, 0.0, 1.0 ]
-								}
-,
-								"kslider" : 								{
-									"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-									"color" : [ 1.0, 1.0, 1.0, 1.0 ]
-								}
-,
 								"ezdac~" : 								{
 									"elementcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 									"bgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 									"color" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
-								"function" : 								{
-									"bgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-									"color" : [ 0.0, 0.0, 0.0, 1.0 ]
-								}
-,
-								"multislider" : 								{
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
-									"color" : [ 0.0, 0.0, 0.0, 1.0 ]
+								"gain~" : 								{
+									"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
+									"color" : [ 1.0, 0.861448, 0.16921, 1.0 ]
 								}
 ,
 								"umenu" : 								{
@@ -2131,6 +2102,35 @@
 										"autogradient" : 0
 									}
 
+								}
+,
+								"message" : 								{
+									"bgfillcolor" : 									{
+										"type" : "gradient",
+										"color1" : [ 0.786675, 0.801885, 0.845022, 1.0 ],
+										"color2" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
+										"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
+										"angle" : 270.0,
+										"proportion" : 0.39,
+										"autogradient" : 0
+									}
+,
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
+								}
+,
+								"attrui" : 								{
+									"bgcolor" : [ 0.786675, 0.801885, 0.845022, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
+								}
+,
+								"function" : 								{
+									"bgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
+									"color" : [ 0.0, 0.0, 0.0, 1.0 ]
+								}
+,
+								"multislider" : 								{
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"color" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -2747,7 +2747,6 @@
 						"styles" : [ 							{
 								"name" : "basic 1",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
@@ -2756,7 +2755,8 @@
 										"angle" : 270.0,
 										"proportion" : 0.39
 									}
-
+,
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -2765,9 +2765,9 @@
 , 							{
 								"name" : "default_style",
 								"newobj" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
 									"accentcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"toggle" : 								{
@@ -2787,9 +2787,9 @@
 , 							{
 								"name" : "default_style-1",
 								"newobj" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
 									"accentcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"toggle" : 								{
@@ -2808,29 +2808,10 @@
 							}
 , 							{
 								"name" : "master_style",
-								"attrui" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgcolor" : [ 0.786675, 0.801885, 0.845022, 1.0 ]
-								}
-,
 								"newobj" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
 									"accentcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
-								}
-,
-								"message" : 								{
-									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-									"bgfillcolor" : 									{
-										"type" : "gradient",
-										"color1" : [ 0.786675, 0.801885, 0.845022, 1.0 ],
-										"color2" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-										"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-										"angle" : 270.0,
-										"proportion" : 0.39,
-										"autogradient" : 0
-									}
-
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"slider" : 								{
@@ -2839,15 +2820,21 @@
 									"color" : [ 0.461105, 0.492646, 0.591878, 1.0 ]
 								}
 ,
+								"ezadc~" : 								{
+									"elementcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
+									"bgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
+									"color" : [ 0.0, 0.0, 0.0, 1.0 ]
+								}
+,
 								"button" : 								{
 									"elementcolor" : [ 0.786675, 0.801885, 0.845022, 1.0 ],
 									"bgcolor" : [ 0.682032, 0.698052, 0.748716, 1.0 ],
 									"color" : [ 1.0, 0.95051, 0.0, 1.0 ]
 								}
 ,
-								"gain~" : 								{
+								"kslider" : 								{
 									"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-									"color" : [ 1.0, 0.861448, 0.16921, 1.0 ]
+									"color" : [ 1.0, 1.0, 1.0, 1.0 ]
 								}
 ,
 								"toggle" : 								{
@@ -2856,31 +2843,15 @@
 									"color" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
-								"ezadc~" : 								{
-									"elementcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
-									"bgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-									"color" : [ 0.0, 0.0, 0.0, 1.0 ]
-								}
-,
-								"kslider" : 								{
-									"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-									"color" : [ 1.0, 1.0, 1.0, 1.0 ]
-								}
-,
 								"ezdac~" : 								{
 									"elementcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
 									"bgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 									"color" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
-								"function" : 								{
-									"bgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-									"color" : [ 0.0, 0.0, 0.0, 1.0 ]
-								}
-,
-								"multislider" : 								{
-									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
-									"color" : [ 0.0, 0.0, 0.0, 1.0 ]
+								"gain~" : 								{
+									"elementcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
+									"color" : [ 1.0, 0.861448, 0.16921, 1.0 ]
 								}
 ,
 								"umenu" : 								{
@@ -2894,6 +2865,35 @@
 										"autogradient" : 0
 									}
 
+								}
+,
+								"message" : 								{
+									"bgfillcolor" : 									{
+										"type" : "gradient",
+										"color1" : [ 0.786675, 0.801885, 0.845022, 1.0 ],
+										"color2" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
+										"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
+										"angle" : 270.0,
+										"proportion" : 0.39,
+										"autogradient" : 0
+									}
+,
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
+								}
+,
+								"attrui" : 								{
+									"bgcolor" : [ 0.786675, 0.801885, 0.845022, 1.0 ],
+									"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ]
+								}
+,
+								"function" : 								{
+									"bgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
+									"color" : [ 0.0, 0.0, 0.0, 1.0 ]
+								}
+,
+								"multislider" : 								{
+									"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"color" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -2934,7 +2934,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 4.0, 112.0, 720.0, 520.0 ],
+						"rect" : [ 8.0, 112.0, 720.0, 520.0 ],
 						"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 						"editing_bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 						"bglocked" : 0,
@@ -4390,8 +4390,8 @@
 												"name" : "Plum Box",
 												"default" : 												{
 													"accentcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
-													"selectioncolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"selectioncolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ]
 												}
 ,
 												"parentstyle" : "Plum Message",
@@ -4400,7 +4400,6 @@
 , 											{
 												"name" : "Plum Message",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 													"bgfillcolor" : 													{
 														"type" : "color",
 														"color" : [ 0.5, 0.069307, 0.365236, 1.0 ],
@@ -4410,7 +4409,8 @@
 														"proportion" : 0.39,
 														"autogradient" : 0
 													}
-
+,
+													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -4419,9 +4419,9 @@
 , 											{
 												"name" : "Plum Object",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 													"accentcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
-													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ]
+													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
+													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -4430,13 +4430,8 @@
 , 											{
 												"name" : "Ryanne Default",
 												"default" : 												{
-													"textcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"patchlinecolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 													"accentcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
 													"elementcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
-													"fontname" : [ "Helvetica" ],
-													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
 													"bgfillcolor" : 													{
 														"type" : "gradient",
 														"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -4447,8 +4442,13 @@
 														"autogradient" : 0
 													}
 ,
+													"selectioncolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+													"fontname" : [ "Helvetica" ],
+													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
 													"color" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"selectioncolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
+													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+													"patchlinecolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+													"textcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -4475,8 +4475,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -5701,8 +5701,8 @@
 												"name" : "Plum Box",
 												"default" : 												{
 													"accentcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
-													"selectioncolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"selectioncolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ]
 												}
 ,
 												"parentstyle" : "Plum Message",
@@ -5711,7 +5711,6 @@
 , 											{
 												"name" : "Plum Message",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 													"bgfillcolor" : 													{
 														"type" : "color",
 														"color" : [ 0.5, 0.069307, 0.365236, 1.0 ],
@@ -5721,7 +5720,8 @@
 														"proportion" : 0.39,
 														"autogradient" : 0
 													}
-
+,
+													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -5730,9 +5730,9 @@
 , 											{
 												"name" : "Plum Object",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 													"accentcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
-													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ]
+													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
+													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -5741,13 +5741,8 @@
 , 											{
 												"name" : "Ryanne Default",
 												"default" : 												{
-													"textcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"patchlinecolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 													"accentcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
 													"elementcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
-													"fontname" : [ "Helvetica" ],
-													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
 													"bgfillcolor" : 													{
 														"type" : "gradient",
 														"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -5758,8 +5753,13 @@
 														"autogradient" : 0
 													}
 ,
+													"selectioncolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+													"fontname" : [ "Helvetica" ],
+													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
 													"color" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"selectioncolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
+													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+													"patchlinecolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+													"textcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -5786,8 +5786,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -7025,8 +7025,8 @@
 												"name" : "Plum Box",
 												"default" : 												{
 													"accentcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
-													"selectioncolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"selectioncolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ]
 												}
 ,
 												"parentstyle" : "Plum Message",
@@ -7035,7 +7035,6 @@
 , 											{
 												"name" : "Plum Message",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 													"bgfillcolor" : 													{
 														"type" : "color",
 														"color" : [ 0.5, 0.069307, 0.365236, 1.0 ],
@@ -7045,7 +7044,8 @@
 														"proportion" : 0.39,
 														"autogradient" : 0
 													}
-
+,
+													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -7054,9 +7054,9 @@
 , 											{
 												"name" : "Plum Object",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 													"accentcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
-													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ]
+													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
+													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -7065,13 +7065,8 @@
 , 											{
 												"name" : "Ryanne Default",
 												"default" : 												{
-													"textcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"patchlinecolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 													"accentcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
 													"elementcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
-													"fontname" : [ "Helvetica" ],
-													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
 													"bgfillcolor" : 													{
 														"type" : "gradient",
 														"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -7082,8 +7077,13 @@
 														"autogradient" : 0
 													}
 ,
+													"selectioncolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+													"fontname" : [ "Helvetica" ],
+													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
 													"color" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"selectioncolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
+													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+													"patchlinecolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+													"textcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -7110,8 +7110,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -8336,8 +8336,8 @@
 												"name" : "Plum Box",
 												"default" : 												{
 													"accentcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
-													"selectioncolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"selectioncolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ]
 												}
 ,
 												"parentstyle" : "Plum Message",
@@ -8346,7 +8346,6 @@
 , 											{
 												"name" : "Plum Message",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 													"bgfillcolor" : 													{
 														"type" : "color",
 														"color" : [ 0.5, 0.069307, 0.365236, 1.0 ],
@@ -8356,7 +8355,8 @@
 														"proportion" : 0.39,
 														"autogradient" : 0
 													}
-
+,
+													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -8365,9 +8365,9 @@
 , 											{
 												"name" : "Plum Object",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 													"accentcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
-													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ]
+													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
+													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -8376,13 +8376,8 @@
 , 											{
 												"name" : "Ryanne Default",
 												"default" : 												{
-													"textcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"patchlinecolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 													"accentcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
 													"elementcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
-													"fontname" : [ "Helvetica" ],
-													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
 													"bgfillcolor" : 													{
 														"type" : "gradient",
 														"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -8393,8 +8388,13 @@
 														"autogradient" : 0
 													}
 ,
+													"selectioncolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+													"fontname" : [ "Helvetica" ],
+													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
 													"color" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"selectioncolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
+													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+													"patchlinecolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+													"textcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -8421,8 +8421,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -9249,8 +9249,8 @@
 												"name" : "Plum Box",
 												"default" : 												{
 													"accentcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
-													"selectioncolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"selectioncolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ]
 												}
 ,
 												"parentstyle" : "Plum Message",
@@ -9259,7 +9259,6 @@
 , 											{
 												"name" : "Plum Message",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 													"bgfillcolor" : 													{
 														"type" : "color",
 														"color" : [ 0.5, 0.069307, 0.365236, 1.0 ],
@@ -9269,7 +9268,8 @@
 														"proportion" : 0.39,
 														"autogradient" : 0
 													}
-
+,
+													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -9278,9 +9278,9 @@
 , 											{
 												"name" : "Plum Object",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 													"accentcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
-													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ]
+													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
+													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -9289,13 +9289,8 @@
 , 											{
 												"name" : "Ryanne Default",
 												"default" : 												{
-													"textcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"patchlinecolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 													"accentcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
 													"elementcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
-													"fontname" : [ "Helvetica" ],
-													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
 													"bgfillcolor" : 													{
 														"type" : "gradient",
 														"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -9306,8 +9301,13 @@
 														"autogradient" : 0
 													}
 ,
+													"selectioncolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+													"fontname" : [ "Helvetica" ],
+													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
 													"color" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"selectioncolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
+													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+													"patchlinecolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+													"textcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -9334,8 +9334,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -10516,8 +10516,8 @@
 												"name" : "Plum Box",
 												"default" : 												{
 													"accentcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
-													"selectioncolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"selectioncolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ]
 												}
 ,
 												"parentstyle" : "Plum Message",
@@ -10526,7 +10526,6 @@
 , 											{
 												"name" : "Plum Message",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 													"bgfillcolor" : 													{
 														"type" : "color",
 														"color" : [ 0.5, 0.069307, 0.365236, 1.0 ],
@@ -10536,7 +10535,8 @@
 														"proportion" : 0.39,
 														"autogradient" : 0
 													}
-
+,
+													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -10545,9 +10545,9 @@
 , 											{
 												"name" : "Plum Object",
 												"default" : 												{
-													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 													"accentcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
-													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ]
+													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
+													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -10556,13 +10556,8 @@
 , 											{
 												"name" : "Ryanne Default",
 												"default" : 												{
-													"textcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"patchlinecolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 													"accentcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
 													"elementcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
-													"fontname" : [ "Helvetica" ],
-													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
 													"bgfillcolor" : 													{
 														"type" : "gradient",
 														"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -10573,8 +10568,13 @@
 														"autogradient" : 0
 													}
 ,
+													"selectioncolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+													"fontname" : [ "Helvetica" ],
+													"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
 													"color" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-													"selectioncolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
+													"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+													"patchlinecolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+													"textcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -10601,8 +10601,8 @@
 , 											{
 												"name" : "newobjYellow-1",
 												"default" : 												{
-													"fontsize" : [ 12.059008 ],
-													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+													"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+													"fontsize" : [ 12.059008 ]
 												}
 ,
 												"parentstyle" : "",
@@ -11070,6 +11070,24 @@
 							}
 , 							{
 								"patchline" : 								{
+									"destination" : [ "obj-22", 0 ],
+									"disabled" : 0,
+									"hidden" : 0,
+									"source" : [ "obj-8", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-24", 0 ],
+									"disabled" : 0,
+									"hidden" : 0,
+									"source" : [ "obj-8", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
 									"destination" : [ "obj-5", 0 ],
 									"disabled" : 0,
 									"hidden" : 1,
@@ -11136,8 +11154,8 @@
 								"name" : "Plum Box",
 								"default" : 								{
 									"accentcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-									"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
-									"selectioncolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"selectioncolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ]
 								}
 ,
 								"parentstyle" : "Plum Message",
@@ -11146,7 +11164,6 @@
 , 							{
 								"name" : "Plum Message",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 									"bgfillcolor" : 									{
 										"type" : "color",
 										"color" : [ 0.5, 0.069307, 0.365236, 1.0 ],
@@ -11156,7 +11173,8 @@
 										"proportion" : 0.39,
 										"autogradient" : 0
 									}
-
+,
+									"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -11165,9 +11183,9 @@
 , 							{
 								"name" : "Plum Object",
 								"default" : 								{
-									"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 									"accentcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
-									"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ]
+									"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
+									"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -11176,13 +11194,8 @@
 , 							{
 								"name" : "Ryanne Default",
 								"default" : 								{
-									"textcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-									"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-									"patchlinecolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
 									"accentcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
 									"elementcolor" : [ 0.5, 0.069307, 0.365236, 1.0 ],
-									"fontname" : [ "Helvetica" ],
-									"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -11193,8 +11206,13 @@
 										"autogradient" : 0
 									}
 ,
+									"selectioncolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+									"fontname" : [ "Helvetica" ],
+									"bgcolor" : [ 0.254902, 0.066667, 0.156863, 1.0 ],
 									"color" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
-									"selectioncolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
+									"textcolor_inverse" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+									"patchlinecolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ],
+									"textcolor" : [ 0.854902, 0.792157, 0.768627, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -11203,7 +11221,6 @@
 , 							{
 								"name" : "basic 1",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
@@ -11212,7 +11229,8 @@
 										"angle" : 270.0,
 										"proportion" : 0.39
 									}
-
+,
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -11239,8 +11257,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"fontsize" : [ 12.059008 ],
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+									"fontsize" : [ 12.059008 ]
 								}
 ,
 								"parentstyle" : "",
@@ -16043,7 +16061,6 @@
 						"styles" : [ 							{
 								"name" : "basic 1",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
@@ -16052,7 +16069,8 @@
 										"angle" : 270.0,
 										"proportion" : 0.39
 									}
-
+,
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -16979,7 +16997,6 @@
 						"styles" : [ 							{
 								"name" : "basic 1",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
@@ -16988,7 +17005,8 @@
 										"angle" : 270.0,
 										"proportion" : 0.39
 									}
-
+,
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -19602,7 +19620,6 @@
 										"styles" : [ 											{
 												"name" : "basic 1",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
 													"bgfillcolor" : 													{
 														"type" : "gradient",
 														"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
@@ -19611,7 +19628,8 @@
 														"angle" : 270.0,
 														"proportion" : 0.39
 													}
-
+,
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -19827,7 +19845,6 @@
 						"styles" : [ 							{
 								"name" : "basic 1",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
@@ -19836,7 +19853,8 @@
 										"angle" : 270.0,
 										"proportion" : 0.39
 									}
-
+,
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -20015,7 +20033,6 @@
 						"styles" : [ 							{
 								"name" : "basic 1",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
@@ -20024,7 +20041,8 @@
 										"angle" : 270.0,
 										"proportion" : 0.39
 									}
-
+,
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -23658,7 +23676,6 @@
 						"styles" : [ 							{
 								"name" : "basic 1",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
@@ -23667,7 +23684,8 @@
 										"angle" : 270.0,
 										"proportion" : 0.39
 									}
-
+,
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -28654,7 +28672,6 @@
 						"styles" : [ 							{
 								"name" : "basic 1",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
@@ -28663,7 +28680,8 @@
 										"angle" : 270.0,
 										"proportion" : 0.39
 									}
-
+,
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -31987,7 +32005,6 @@
 						"styles" : [ 							{
 								"name" : "basic 1",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
@@ -31996,7 +32013,8 @@
 										"angle" : 270.0,
 										"proportion" : 0.39
 									}
-
+,
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -36404,7 +36422,6 @@
 						"styles" : [ 							{
 								"name" : "basic 1",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
 									"bgfillcolor" : 									{
 										"type" : "gradient",
 										"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
@@ -36413,7 +36430,8 @@
 										"angle" : 270.0,
 										"proportion" : 0.39
 									}
-
+,
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -37209,7 +37227,6 @@
 										"styles" : [ 											{
 												"name" : "basic 1",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
 													"bgfillcolor" : 													{
 														"type" : "gradient",
 														"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
@@ -37218,7 +37235,8 @@
 														"angle" : 270.0,
 														"proportion" : 0.39
 													}
-
+,
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -39153,7 +39171,6 @@
 		"styles" : [ 			{
 				"name" : "basic 1",
 				"default" : 				{
-					"fontsize" : [ 10.0 ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
 						"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
@@ -39162,7 +39179,8 @@
 						"angle" : 270.0,
 						"proportion" : 0.39
 					}
-
+,
+					"fontsize" : [ 10.0 ]
 				}
 ,
 				"parentstyle" : "",
