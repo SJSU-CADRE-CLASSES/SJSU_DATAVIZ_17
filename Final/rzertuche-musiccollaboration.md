@@ -1,0 +1,61 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl440
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Ryanne Zertuche
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f0\fs32 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 May 15, 2017
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f0\fs32 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Art 175, SP 2017
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl760\qc
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Music Student Collaboration Reflection
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\fi960\sl760
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Upon first receiving the collaboration assignment, I was excited and ready to see what my fellow peers would come up with. During my time here at SJSU, I\'92ve learned to really love collaborating, and after participating in the Paseo Prototyping Challenge, I found that I really enjoy working cross-discipline, because it\'92s never a predictable experience. No two collaborations are the same because there are always different skill sets and mindsets, and I always end up learning a ton of things I wouldn\'92t have imagined I\'92d get out of the project. I assumed this project would be the same, but what ended up happening was honestly a big disappointment.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f0\fs32 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Everything started off fine, and I thought that we had a strong group of Digital Media Art students. I didn\'92t know about the music students, since my and everyone else\'92s schedules made it very difficult to meet up with them. In fact, I did not meet one of our music student group members until the week of the performance. Since there was never a time that everyone could meet, we settled for mainly communicating with one music student. I realized that the big difference between this project and the Paseo Prototyping Challenge was that the Paseo students were quite literally in it to win it. They were all students specifically looking to go above and beyond because they were inspired by their specific prompt. This is not to say that our group wasn\'92t made up of great, talented people, but the circumstances were very different, and much less motivating. Plus, I feel that besides me and George, who were already friends beforehand, the group didn\'92t really \'93click\'94 with each other.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f0\fs32 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 I was pretty disappointed at the overall ethic of our in-class group, unfortunately. George and I had gotten the patch to what we thought was about 85-90% of where it needed to be, just on our own. We were a little bothered by the fact that two group members didn\'92t offer any ideas or come up with things to add to the patch, but as long as we had something working, we were fine. The other in-class group member DID contribute, but what he was doing got very lost in translation for me, as communication is definitely not his strong suit. After a few class sessions, I really had no idea what he had done to the patch, but again, as long as we had something to present that was at least somewhat a group effort, I was fine with what we had.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f0\fs32 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 The day of the performance was really painful. Even though we\'92d previously had the patch working, of course on the day of the performance, something had gotten messed up and it didn\'92t work. After hours of fiddling with it, we finally got it to behave about half an hour before the start of the performance. However, when the time came for us to get our patch up and running for the real deal, it was broken again. Unfortunately, none of the parts that I had worked on were shown in the final product, and I didn\'92t really recognize the patch that we ended up showing. I\'92m not sure if it was dumb luck, or if the patch had just been altered beyond recognition, but I was pretty disappointed. I think that there were just \'93too many cooks in the kitchen,\'94 for the scope of what we had to do, and I often felt that I had very limited control of what was happening, considering how much time we had to work on one simple patch. I think this is also the reason why two group members contributed absolutely nothing to the patch the entire time. If we were to do it again, my suggestion would be to have half the students work on Elijah and half on the music performance.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl760
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Video: https://youtu.be/DaxSk9QCmAE
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+}
