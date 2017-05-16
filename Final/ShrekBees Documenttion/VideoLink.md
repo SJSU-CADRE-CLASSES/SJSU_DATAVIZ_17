@@ -1,2 +1,2 @@
 : 
-[linkname](https://vimeo.com/217739854)
+[Link to Video](https://vimeo.com/217739854)
