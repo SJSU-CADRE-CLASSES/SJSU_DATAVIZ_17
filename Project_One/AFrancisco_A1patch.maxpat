@@ -38,6 +38,58 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-11",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "bang" ],
+					"patching_rect" : [ 557.0, 13.0, 60.0, 22.0 ],
+					"style" : "",
+					"text" : "loadbang"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-10",
+					"maxclass" : "number",
+					"numinlets" : 1,
+					"numoutlets" : 2,
+					"outlettype" : [ "", "bang" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 557.0, 48.0, 50.0, 22.0 ],
+					"style" : ""
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-8",
+					"maxclass" : "number",
+					"numinlets" : 1,
+					"numoutlets" : 2,
+					"outlettype" : [ "", "bang" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 633.5, 48.0, 50.0, 22.0 ],
+					"style" : ""
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-5",
+					"maxclass" : "number",
+					"numinlets" : 1,
+					"numoutlets" : 2,
+					"outlettype" : [ "", "bang" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 710.0, 48.0, 50.0, 22.0 ],
+					"style" : ""
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"annotation" : "## A video delay line ##",
 					"bgmode" : 1,
 					"border" : 0,
@@ -52,7 +104,7 @@
 					"numoutlets" : 1,
 					"offset" : [ 0.0, 0.0 ],
 					"outlettype" : [ "jit_matrix" ],
-					"patching_rect" : [ 424.0, 235.0, 188.0, 130.0 ],
+					"patching_rect" : [ 424.0, 261.0, 188.0, 130.0 ],
 					"prototypename" : "pixl",
 					"varname" : "delayr",
 					"viewvisibility" : 1
@@ -75,7 +127,7 @@
 					"numoutlets" : 1,
 					"offset" : [ 0.0, 0.0 ],
 					"outlettype" : [ "jit_matrix" ],
-					"patching_rect" : [ 190.0, 235.0, 208.0, 135.0 ],
+					"patching_rect" : [ 190.0, 261.0, 208.0, 135.0 ],
 					"prototypename" : "pixl",
 					"varname" : "brcosr",
 					"viewvisibility" : 1
@@ -98,7 +150,7 @@
 					"numoutlets" : 1,
 					"offset" : [ 0.0, 0.0 ],
 					"outlettype" : [ "jit_matrix" ],
-					"patching_rect" : [ 33.0, 235.0, 128.0, 130.0 ],
+					"patching_rect" : [ 33.0, 261.0, 128.0, 130.0 ],
 					"prototypename" : "pixl",
 					"varname" : "pixl8r",
 					"viewvisibility" : 1
@@ -121,7 +173,7 @@
 					"numoutlets" : 1,
 					"offset" : [ 0.0, 0.0 ],
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 405.0, 29.0, 478.0, 148.0 ],
+					"patching_rect" : [ 404.0, 89.0, 478.0, 148.0 ],
 					"prototypename" : "pixl",
 					"varname" : "scanlinr",
 					"viewvisibility" : 1
@@ -166,7 +218,7 @@
 					"numoutlets" : 1,
 					"offset" : [ 0.0, 0.0 ],
 					"outlettype" : [ "jit_matrix" ],
-					"patching_rect" : [ 34.0, 19.0, 346.0, 158.0 ],
+					"patching_rect" : [ 33.0, 79.0, 346.0, 158.0 ],
 					"prototypename" : "pixl",
 					"varname" : "grabbr",
 					"viewvisibility" : 1
@@ -185,10 +237,49 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-20", 0 ],
+					"destination" : [ "obj-20", 2 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-10", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-10", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"order" : 2,
+					"source" : [ "obj-11", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-5", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"order" : 0,
+					"source" : [ "obj-11", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-8", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
 					"order" : 1,
+					"source" : [ "obj-11", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-20", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"order" : 0,
 					"source" : [ "obj-17", 0 ]
 				}
 
@@ -198,7 +289,7 @@
 					"destination" : [ "obj-7", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"order" : 0,
+					"order" : 1,
 					"source" : [ "obj-17", 0 ]
 				}
 
@@ -244,6 +335,15 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-20", 4 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-5", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-35", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
@@ -251,61 +351,70 @@
 				}
 
 			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-20", 3 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-8", 0 ]
+				}
+
+			}
  ],
 		"parameters" : 		{
 			"obj-20::obj-57" : [ "FreqMode[3]", "FreqMode", 0 ],
-			"obj-1::obj-48" : [ "pictctrl[10]", "pictctrl[2]", 0 ],
-			"obj-20::obj-19" : [ "pictctrl[20]", "pictctrl[1]", 0 ],
-			"obj-1::obj-20" : [ "pictctrl[11]", "pictctrl[1]", 0 ],
-			"obj-7::obj-37" : [ "vertical[2]", "vertical", 0 ],
-			"obj-20::obj-121" : [ "gswitch2[7]", "gswitch2", 0 ],
-			"obj-35::obj-127" : [ "contrast[1]", "contrast", 0 ],
-			"obj-17::obj-49" : [ "range[4]", "range", 0 ],
-			"obj-20::obj-127" : [ "position[3]", "position", 0 ],
-			"obj-17::obj-39" : [ "pictctrl[1]", "pictctrl[1]", 0 ],
-			"obj-20::obj-75" : [ "pictctrl[18]", "pictctrl[1]", 0 ],
-			"obj-19::obj-41" : [ "pictctrl[7]", "pictctrl[1]", 0 ],
-			"obj-20::obj-21" : [ "pictctrl[23]", "pictctrl[1]", 0 ],
-			"obj-20::obj-22" : [ "speed[3]", "speed", 0 ],
-			"obj-35::obj-140" : [ "saturation", "saturation", 0 ],
-			"obj-35::obj-119" : [ "brightness", "brightness", 0 ],
-			"obj-35::obj-120" : [ "range", "range", 0 ],
-			"obj-19::obj-16" : [ "live.toggle", "live.toggle", 0 ],
-			"obj-20::obj-7" : [ "live.toggle[9]", "live.toggle", 0 ],
-			"obj-1::obj-10" : [ "feedback", "feedback", 0 ],
-			"obj-19::obj-6" : [ "live.toggle[1]", "live.toggle", 0 ],
-			"obj-17::obj-64::obj-40" : [ "umenu[2]", "umenu", 0 ],
-			"obj-17::obj-64::obj-56" : [ "textbutton", "textbutton", 0 ],
-			"obj-20::obj-109" : [ "pictctrl[19]", "pictctrl[1]", 0 ],
-			"obj-20::obj-94" : [ "pictctrl[21]", "pictctrl[1]", 0 ],
-			"obj-35::obj-129" : [ "contrast", "contrast", 0 ],
+			"obj-35::obj-148" : [ "pictctrl[43]", "pictctrl[1]", 0 ],
+			"obj-20::obj-85" : [ "number[16]", "number[1]", 0 ],
 			"obj-20::obj-1" : [ "multislider[5]", "multislider", 0 ],
-			"obj-20::obj-118" : [ "gswitch2[6]", "gswitch2", 0 ],
-			"obj-7::obj-68" : [ "horizontal[2]", "horizontal", 0 ],
-			"obj-1::obj-7" : [ "range[6]", "range", 0 ],
-			"obj-7::obj-24" : [ "range[23]", "range", 0 ],
-			"obj-35::obj-151" : [ "pictctrl[27]", "pictctrl[1]", 0 ],
-			"obj-35::obj-128" : [ "range[1]", "range", 0 ],
+			"obj-35::obj-147" : [ "pictctrl[44]", "pictctrl[1]", 0 ],
+			"obj-17::obj-39" : [ "pictctrl[1]", "pictctrl[1]", 0 ],
+			"obj-1::obj-10" : [ "feedback", "feedback", 0 ],
 			"obj-7::obj-33" : [ "pictctrl[67]", "pictctrl[1]", 0 ],
 			"obj-35::obj-150" : [ "pictctrl[28]", "pictctrl[1]", 0 ],
-			"obj-7::obj-39" : [ "pictctrl[68]", "pictctrl[1]", 0 ],
-			"obj-35::obj-121" : [ "brightness[1]", "brightness", 0 ],
-			"obj-17::obj-38" : [ "pictctrl[2]", "pictctrl[1]", 0 ],
-			"obj-20::obj-128" : [ "range[3]", "range", 0 ],
-			"obj-20::obj-41" : [ "number[17]", "number", 0 ],
-			"obj-35::obj-149" : [ "pictctrl[42]", "pictctrl[1]", 0 ],
-			"obj-35::obj-148" : [ "pictctrl[43]", "pictctrl[1]", 0 ],
-			"obj-35::obj-147" : [ "pictctrl[44]", "pictctrl[1]", 0 ],
-			"obj-20::obj-4" : [ "textbutton[4]", "textbutton[1]", 0 ],
-			"obj-35::obj-141" : [ "range[2]", "range", 0 ],
-			"obj-35::obj-142" : [ "saturation[1]", "saturation", 0 ],
 			"obj-20::obj-157" : [ "pictctrl[17]", "pictctrl[1]", 0 ],
-			"obj-20::obj-85" : [ "number[16]", "number[1]", 0 ],
-			"obj-20::obj-67" : [ "pictctrl[22]", "pictctrl[1]", 0 ],
-			"obj-1::obj-24" : [ "crossfade", "crossfade", 0 ],
-			"obj-35::obj-6" : [ "range[5]", "range", 0 ],
+			"obj-7::obj-39" : [ "pictctrl[68]", "pictctrl[1]", 0 ],
+			"obj-20::obj-75" : [ "pictctrl[18]", "pictctrl[1]", 0 ],
+			"obj-20::obj-19" : [ "pictctrl[20]", "pictctrl[1]", 0 ],
+			"obj-20::obj-109" : [ "pictctrl[19]", "pictctrl[1]", 0 ],
+			"obj-35::obj-120" : [ "range", "range", 0 ],
 			"obj-1::obj-53" : [ "pictctrl", "pictctrl", 0 ],
+			"obj-35::obj-129" : [ "contrast", "contrast", 0 ],
+			"obj-19::obj-16" : [ "live.toggle", "live.toggle", 0 ],
+			"obj-35::obj-6" : [ "range[5]", "range", 0 ],
+			"obj-35::obj-121" : [ "brightness[1]", "brightness", 0 ],
+			"obj-19::obj-6" : [ "live.toggle[1]", "live.toggle", 0 ],
+			"obj-35::obj-119" : [ "brightness", "brightness", 0 ],
+			"obj-1::obj-20" : [ "pictctrl[11]", "pictctrl[1]", 0 ],
+			"obj-20::obj-118" : [ "gswitch2[6]", "gswitch2", 0 ],
+			"obj-7::obj-68" : [ "horizontal[2]", "horizontal", 0 ],
+			"obj-20::obj-21" : [ "pictctrl[23]", "pictctrl[1]", 0 ],
+			"obj-20::obj-121" : [ "gswitch2[7]", "gswitch2", 0 ],
+			"obj-20::obj-41" : [ "number[17]", "number", 0 ],
+			"obj-7::obj-24" : [ "range[23]", "range", 0 ],
+			"obj-17::obj-49" : [ "range[4]", "range", 0 ],
+			"obj-20::obj-67" : [ "pictctrl[22]", "pictctrl[1]", 0 ],
+			"obj-17::obj-64::obj-56" : [ "textbutton", "textbutton", 0 ],
+			"obj-17::obj-64::obj-40" : [ "umenu[2]", "umenu", 0 ],
+			"obj-20::obj-127" : [ "position[3]", "position", 0 ],
+			"obj-20::obj-22" : [ "speed[3]", "speed", 0 ],
+			"obj-20::obj-4" : [ "textbutton[4]", "textbutton[1]", 0 ],
+			"obj-20::obj-128" : [ "range[3]", "range", 0 ],
+			"obj-20::obj-7" : [ "live.toggle[9]", "live.toggle", 0 ],
+			"obj-35::obj-149" : [ "pictctrl[42]", "pictctrl[1]", 0 ],
+			"obj-7::obj-37" : [ "vertical[2]", "vertical", 0 ],
+			"obj-35::obj-141" : [ "range[2]", "range", 0 ],
+			"obj-1::obj-48" : [ "pictctrl[10]", "pictctrl[2]", 0 ],
+			"obj-35::obj-142" : [ "saturation[1]", "saturation", 0 ],
+			"obj-20::obj-94" : [ "pictctrl[21]", "pictctrl[1]", 0 ],
+			"obj-1::obj-24" : [ "crossfade", "crossfade", 0 ],
+			"obj-35::obj-128" : [ "range[1]", "range", 0 ],
+			"obj-35::obj-151" : [ "pictctrl[27]", "pictctrl[1]", 0 ],
+			"obj-35::obj-140" : [ "saturation", "saturation", 0 ],
+			"obj-19::obj-41" : [ "pictctrl[7]", "pictctrl[1]", 0 ],
 			"obj-35::obj-104" : [ "pictctrl[9]", "pictctrl[1]", 0 ],
+			"obj-1::obj-7" : [ "range[6]", "range", 0 ],
+			"obj-35::obj-127" : [ "contrast[1]", "contrast", 0 ],
+			"obj-17::obj-38" : [ "pictctrl[2]", "pictctrl[1]", 0 ],
 			"obj-1::obj-9" : [ "delay", "delay", 0 ]
 		}
 ,
